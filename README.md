@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**001Priyanka/001Priyanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# PIYU.DEV
 
-Here are some ideas to get you started:
+### engineer · builder · learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./assets/hero.png" width="750" alt="Piyu coding">
+
+</div>
+
+---
+
+## `$ whoami`
+
+> Engineering student who likes building things, learning difficult stuff,
+> and turning random ideas into something that actually works.
+
+Currently exploring software development, open source, AI, and the art of
+building things I don't completely understand yet.
+
+---
+
+## `$ ./status`
+
+```text
+BUILDING        █████████████████░░░
+LEARNING        ████████████████░░░░
+DSA             ██████████████░░░░░░
+OPEN SOURCE     ████████████░░░░░░░░
+AI              ██████████░░░░░░░░░░
